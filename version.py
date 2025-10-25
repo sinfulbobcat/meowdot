@@ -1,0 +1,9 @@
+short_name = "godot"
+name = "Meowdot Engine"
+major = 4
+minor = 6
+patch = 0
+status = "dev"
+module_config = ""
+website = "https://godotengine.org"
+docs = "latest"
